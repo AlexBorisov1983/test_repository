@@ -1,5 +1,5 @@
-def function(a, b, z):
-	с = a + b**z + a - b + z
-	return c
+f = min
+f = max
+g, h = min, max
+max = g
 
-print(function(2, 3, 5))
